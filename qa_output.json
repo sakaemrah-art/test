@@ -25,7 +25,7 @@
     "Signals_GLO": "1C 2C 2P",
     "Signals_GAL": "1C 5Q 7Q 8Q",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "2ANN",
@@ -53,7 +53,7 @@
     "Signals_GLO": "1C 2C 2P",
     "Signals_GAL": "1C 5Q 7Q 8Q",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "2AUC",
@@ -81,7 +81,7 @@
     "Signals_GLO": "1C 2C 2P",
     "Signals_GAL": "1C 5Q 7Q 8Q",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "2BAL",
@@ -109,7 +109,7 @@
     "Signals_GLO": "1C 2C 2P",
     "Signals_GAL": "1C 5Q 7Q 8Q",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "2BAS",
@@ -137,7 +137,7 @@
     "Signals_GLO": "1C 2C 2P",
     "Signals_GAL": "1C 5Q 7Q 8Q",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "2BIL",
@@ -165,7 +165,7 @@
     "Signals_GLO": "1C 2C 2P",
     "Signals_GAL": "1C 5Q 7Q 8Q",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "2CAS",
@@ -193,7 +193,7 @@
     "Signals_GLO": "1C 2C 2P",
     "Signals_GAL": "1C 5Q 7Q 8Q",
     "Signals_BDS": "2I 6I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "2CHR",
@@ -221,7 +221,7 @@
     "Signals_GLO": "1C 2C 2P",
     "Signals_GAL": "1C 5Q 7Q 8Q",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "2CIU",
@@ -249,7 +249,7 @@
     "Signals_GLO": "1C 2C 2P",
     "Signals_GAL": "1C 5Q 7Q 8Q",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:44:00"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "2CLI",
@@ -277,7 +277,7 @@
     "Signals_GLO": "1C 2C 2P",
     "Signals_GAL": "1C 5Q 7Q 8Q",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "2CUM",
@@ -305,7 +305,7 @@
     "Signals_GLO": "1C 2C 2P",
     "Signals_GAL": "1C 5Q 7Q 8Q",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:42:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "2DUN",
@@ -333,7 +333,7 @@
     "Signals_GLO": "1C 2C 2P",
     "Signals_GAL": "1C 5Q 7Q 8Q",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "2FIG",
@@ -361,7 +361,7 @@
     "Signals_GLO": "1C 2C 2P",
     "Signals_GAL": "1C 5Q 7Q 8Q",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "2GAW",
@@ -389,7 +389,7 @@
     "Signals_GLO": "1C 2C 2P",
     "Signals_GAL": "1C 5Q 7Q 8Q",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "2IMP",
@@ -417,7 +417,7 @@
     "Signals_GLO": "1C 2C 2P",
     "Signals_GAL": "1C 5Q 7Q 8Q",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "2INV",
@@ -445,7 +445,7 @@
     "Signals_GLO": "1C 2C 2P",
     "Signals_GAL": "1C 5Q 7Q 8Q",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "2KIR",
@@ -473,7 +473,7 @@
     "Signals_GLO": "1C 2C 2P",
     "Signals_GAL": "1C 5Q 7Q 8Q",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "2LIA",
@@ -501,7 +501,7 @@
     "Signals_GLO": "1C 2C 2P",
     "Signals_GAL": "1C 5Q 7Q 8Q",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "2NER",
@@ -529,7 +529,7 @@
     "Signals_GLO": "1C 2C 2P",
     "Signals_GAL": "1C 5Q 7Q 8Q",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "2OBA",
@@ -557,7 +557,7 @@
     "Signals_GLO": "1C 2C 2P",
     "Signals_GAL": "1C 5Q 7Q 8Q",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "2PIM",
@@ -585,7 +585,7 @@
     "Signals_GLO": "1C 2C 2P",
     "Signals_GAL": "1C 5Q 7Q 8Q",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "2SAL",
@@ -613,7 +613,7 @@
     "Signals_GLO": "1C 2C 2P",
     "Signals_GAL": "1C 5Q 7Q 8Q",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:44:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "2TER",
@@ -641,7 +641,7 @@
     "Signals_GLO": "1C 2C 2P",
     "Signals_GAL": "1C 5Q 7Q 8Q",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "2UBE",
@@ -669,7 +669,7 @@
     "Signals_GLO": "1C 2C 2P",
     "Signals_GAL": "1C 5Q 7Q 8Q",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:39:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "2VIE",
@@ -697,7 +697,7 @@
     "Signals_GLO": "1C 2C 2P",
     "Signals_GAL": "1C 5Q 7Q 8Q",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "2WOR",
@@ -725,7 +725,7 @@
     "Signals_GLO": "1C 2C 2P",
     "Signals_GAL": "1C 5Q 7Q 8Q",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "FRAG",
@@ -753,7 +753,7 @@
     "Signals_GLO": "1C 2C",
     "Signals_GAL": "1X 5X 7X 8X",
     "Signals_BDS": "2I 6I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "FRAV",
@@ -781,7 +781,7 @@
     "Signals_GLO": "1C 1P 2C 2P",
     "Signals_GAL": "1X 5X 6X 7X 8X",
     "Signals_BDS": "2I 6I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "FRBA",
@@ -809,7 +809,7 @@
     "Signals_GLO": "1C 1P 2C 2P",
     "Signals_GAL": "1X 5X 6X 7X 8X",
     "Signals_BDS": "2I 6I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "FRBR",
@@ -837,7 +837,7 @@
     "Signals_GLO": "1C 2C 2P",
     "Signals_GAL": "1X 5X 6X 7X 8X",
     "Signals_BDS": "2I 6I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "FRCP",
@@ -865,7 +865,7 @@
     "Signals_GLO": "1C 1P 2C 2P",
     "Signals_GAL": "1X 5X 7X 8X",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "FRCT",
@@ -893,7 +893,7 @@
     "Signals_GLO": "1C 1P 2C 2P",
     "Signals_GAL": "1X 5X 6X 7X 8X",
     "Signals_BDS": "2I 6I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "FRCA",
@@ -921,7 +921,7 @@
     "Signals_GLO": "1C 2C",
     "Signals_GAL": "1X 5X 6X 7X 8X",
     "Signals_BDS": "2I 6I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "FRCD",
@@ -949,7 +949,7 @@
     "Signals_GLO": "1C 2C",
     "Signals_GAL": "1X 5X 7X 8X",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "FRDM",
@@ -977,7 +977,7 @@
     "Signals_GLO": "1C 2C",
     "Signals_GAL": "1X 5X 6X 7X 8X",
     "Signals_BDS": "2I 6I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "FRDO",
@@ -1005,7 +1005,7 @@
     "Signals_GLO": "1C 2C",
     "Signals_GAL": "1X 5X 6X 7X 8X",
     "Signals_BDS": "2I 6I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "FRDZ",
@@ -1033,7 +1033,7 @@
     "Signals_GLO": "1C 2C",
     "Signals_GAL": "1X 5X 6X 7X 8X",
     "Signals_BDS": "2I 6I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "FRDR",
@@ -1061,7 +1061,7 @@
     "Signals_GLO": "1C 2C",
     "Signals_GAL": "1X 5X 7X 8X",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "FREB",
@@ -1089,7 +1089,7 @@
     "Signals_GLO": "1C 2C",
     "Signals_GAL": "1X 5X 7X 8X",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "FRGU",
@@ -1117,7 +1117,7 @@
     "Signals_GLO": "1C 2C",
     "Signals_GAL": "1X 5X 7X 8X",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "FRBO",
@@ -1145,7 +1145,7 @@
     "Signals_GLO": "1C 2C",
     "Signals_GAL": "1X 5X 7X 8X",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "FRPE",
@@ -1173,7 +1173,7 @@
     "Signals_GLO": "1C 2C 2P",
     "Signals_GAL": "1X 5X 6X 7X 8X",
     "Signals_BDS": "2I 6I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "FRMY",
@@ -1201,7 +1201,7 @@
     "Signals_GLO": "1C 2C",
     "Signals_GAL": "1X 5X 7X 8X",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "FRMZ",
@@ -1229,7 +1229,7 @@
     "Signals_GLO": "1C 2C",
     "Signals_GAL": "1X 5X 6X 7X 8X",
     "Signals_BDS": "2I 6I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "FRME",
@@ -1257,7 +1257,7 @@
     "Signals_GLO": "1C 2C 2P",
     "Signals_GAL": "1X 5X 6X 7X 8X",
     "Signals_BDS": "2I 6I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "FRMS",
@@ -1285,7 +1285,7 @@
     "Signals_GLO": "1C 2C",
     "Signals_GAL": "1X 5X 7X 8X",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "FRNE",
@@ -1313,7 +1313,7 @@
     "Signals_GLO": "1C 2C",
     "Signals_GAL": "1X 5X 7X 8X",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "FRNU",
@@ -1341,7 +1341,7 @@
     "Signals_GLO": "1C 2C",
     "Signals_GAL": "1X 5X 7X 8X",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "FRSL",
@@ -1369,7 +1369,7 @@
     "Signals_GLO": "1C 2C",
     "Signals_GAL": "1X 5X 6X 7X 8X",
     "Signals_BDS": "2I 6I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "FRSN",
@@ -1397,7 +1397,7 @@
     "Signals_GLO": "1C 2C",
     "Signals_GAL": "1X 5X 6X 7X 8X",
     "Signals_BDS": "2I 6I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "FRSU",
@@ -1425,7 +1425,7 @@
     "Signals_GLO": "1C 2C",
     "Signals_GAL": "1X 5X 7X 8X",
     "Signals_BDS": "2I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "FRSV",
@@ -1453,7 +1453,7 @@
     "Signals_GLO": "1C 1P 2C 2P",
     "Signals_GAL": "1X 5X 6X 7X 8X",
     "Signals_BDS": "2I 6I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "FRUN",
@@ -1481,7 +1481,7 @@
     "Signals_GLO": "1C 2C",
     "Signals_GAL": "1X 5X 6X 7X 8X",
     "Signals_BDS": "2I 6I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   },
   {
     "Mountpoint": "FRVL",
@@ -1509,6 +1509,6 @@
     "Signals_GLO": "1C 2C",
     "Signals_GAL": "1X 5X 6X 7X 8X",
     "Signals_BDS": "2I 6I 7I",
-    "Time": "2025-12-30 23:59:30"
+    "Time": "2025-12-30"
   }
 ]
